@@ -14,6 +14,7 @@ Tables princiaples :
 - Emprunts : Historique des emprunts de livres par les membres de la bibliothèque.
   
 <br>
+
 ### *Requêtes possible une fois la Base de Données téléchargée*
 - Lister tous les livres disponibles : SELECT * FROM Livres;
 - Ajouter un nouvel utilisateur : INSERT INTO Utilisateurs (nom, prenom, email, date_inscription) VALUES ('Dupont', 'Jean', 'jean.dupont@example.com', CURDATE());
@@ -21,6 +22,7 @@ Tables princiaples :
 - Supprimer un utlisateur et ses emprunts : DELETE FROM Utilisateurs WHERE id_utilisateur = 2;
 
 <br>
+
 ### *Conclusion :*  
 En créant cette petite base de données, j'ai pu approfondir mes compétences en SQL et requêtes SQL.   
 Cela m'a permis une meilleur compréhension des bases de données en général.   
