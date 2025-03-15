@@ -2,16 +2,16 @@
 ##  📚 Ce projet propose une base de données MySQL pour une bibliothèque imaginaire. Il permet de gérer les utilisateurs, les livres, les auteurs, les catégories de livres et les emprunts.
 
 ### *Création de la Base de Données :*
-Pour ce projet j'ai créé une base de données en SQL, grâce à [ce code :](bibliotheque.sql)
+Pour ce projet, j'ai créé une base de données en SQL, grâce à [ce code :](bibliotheque.sql)
   
 
 ### *Structure de la Base de Données :*
-Tables princiaples :  
-- Utilisateurs : Gère les membres de la bibliothèque.    
-- Auteurs : Contient les informations des auteurs.  
-- Catégories : Contient les différente types de catégorie de livre et leur prix.  
-- Livres : Les différentes informations sur le livre
-- Emprunts : Historique des emprunts de livres par les membres de la bibliothèque.
+Tables principales :  
+- Utilisateurs : gère les membres de la bibliothèque.    
+- Auteurs : contient les informations des auteurs.  
+- Catégories : contient les différents types de catégorie de livre et leur prix.  
+- Livres : les différentes informations sur le livre
+- Emprunts : historique des emprunts de livres par les membres de la bibliothèque.
   
 <br>
 
