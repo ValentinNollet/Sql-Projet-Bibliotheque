@@ -25,5 +25,5 @@ Tables principales :
 
 ### *Conclusion :*  
 En créant cette petite base de données, j'ai pu approfondir mes compétences en SQL et requêtes SQL.   
-Cela m'a permis une meilleur compréhension des bases de données en général.   
+Cela m'a permis une meilleure compréhension des bases de données en général.   
 Pour continuer ce projet, je pourrais intégrer cette base de données à une interface utilisateur et automatiser certaines tâches pour améliorer l'expérience utilisateur et le gestion des emprunts !!
