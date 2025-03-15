@@ -15,11 +15,11 @@ Tables principales :
   
 <br>
 
-### *Requêtes possible une fois la Base de Données téléchargée*
+### *Requête possible une fois la Base de Données téléchargée*
 - Lister tous les livres disponibles : SELECT * FROM Livres;
 - Ajouter un nouvel utilisateur : INSERT INTO Utilisateurs (nom, prenom, email, date_inscription) VALUES ('Dupont', 'Jean', 'jean.dupont@example.com', CURDATE());
 - Voir les livres les plus empruntés : SELECT Livres.titre, COUNT(Emprunts.id_emprunt) AS nombre_emprunts FROM Emprunts JOIN Livres ON Emprunts.id_livre = Livres.id_livre GROUP BY Livres.id_livre ORDER BY nombre_emprunts DESC LIMIT 10;
-- Supprimer un utlisateur et ses emprunts : DELETE FROM Utilisateurs WHERE id_utilisateur = 2;
+- Supprimer un utilisateur et ses emprunts : DELETE FROM Utilisateurs WHERE id_utilisateur = 2;
 
 <br>
 
